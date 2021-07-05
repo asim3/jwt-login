@@ -49,7 +49,7 @@ tra:
 
 
 run:
-	${CD} python3 manage.py runserver
+	${CD} python3 manage.py runserver 8001
 
 
 shell:
